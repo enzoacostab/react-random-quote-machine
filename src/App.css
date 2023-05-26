@@ -40,4 +40,8 @@ body{
 #tweet-quote{
   color: black;
   padding: 5px;
+  border-radius: 50%;
+}
+#tweet-quote:hover{
+  color:rgb(29, 155, 240);
 }
